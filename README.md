@@ -2,7 +2,7 @@
 
 # Welcome to DuitDojo Repository
 
-We still in development so we private the repository but soon we will publicy open. 
+Bangkit 2023 batch 2 Capstone Team (CH2-PS557)
 
 # The Team
 
@@ -14,3 +14,6 @@ We still in development so we private the repository but soon we will publicy op
 | Felisya Brigita Tania Wong          | C323BSX4024 | Cloud Computing         |
 | Amalia Nurkhasanah                  | C198BSX3461 | Cloud Computing         |
 | Esa Faizal Gibran                   | A152BSY2135 | Mobile Development      |
+
+# About This Project
+Our project addresses the challenge of financial mismanagement among students, leveraging Indonesia's growing financial literacy. According to the 2022 National Survey on Financial Literacy and Inclusion by the Financial Services Authority (OJK), the financial literacy index rose from 38.03% (2019) to 49.68% (2022), and the financial inclusion index from 76.19% (2019) to 85.10% (2022). Our user-friendly mobile application targets independent students, facilitating effective financial management through budgeting, expense tracking, bill scanning, item classification. By integrating a visual financial status board, the app provides students with a comprehensive view of their financial health. Our solution encourages responsible financial habits, empowering students to prioritize essentials and cultivate regular savings.
